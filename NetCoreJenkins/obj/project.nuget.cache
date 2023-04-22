@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fbciWBJDuVG6gaRCOUhsxgyzi4tQh386cCsSHAYzL6D31bF1j84lQNlWG5mm9xp4Lnd0MN4h9koOt6z0QDrOmA==",
+  "dgSpecHash": "Sx528iF0tOv/Epq1ZSBDScArSfXnUXfY75Q6mhX8xp5Yp0t0lZbDxDmeAQPKPPbaJUoNYPFDJkbbUHNH0z8KbQ==",
   "success": true,
-  "projectFilePath": "C:\\Repository\\NetCoreJenkinsRepo\\NetCoreJenkins\\NetCoreJenkins.csproj",
+  "projectFilePath": "C:\\Users\\khiembui\\NetCoreJenkins\\NetCoreJenkins\\NetCoreJenkins.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
