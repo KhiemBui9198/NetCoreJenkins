@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\bckhiem\\.nuget\\packages\\": {}
+    "C:\\Users\\chikh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repository\\NetCoreJenkinsRepo\\NetCoreJenkins\\NetCoreJenkins.csproj",
+      "projectUniqueName": "C:\\KMData\\Respositories\\NetCoreJenkinsRepo\\NetCoreJenkins\\NetCoreJenkins.csproj",
       "projectName": "NetCoreJenkins",
-      "projectPath": "C:\\Repository\\NetCoreJenkinsRepo\\NetCoreJenkins\\NetCoreJenkins.csproj",
-      "packagesPath": "C:\\Users\\bckhiem\\.nuget\\packages\\",
-      "outputPath": "C:\\Repository\\NetCoreJenkinsRepo\\NetCoreJenkins\\obj\\",
+      "projectPath": "C:\\KMData\\Respositories\\NetCoreJenkinsRepo\\NetCoreJenkins\\NetCoreJenkins.csproj",
+      "packagesPath": "C:\\Users\\chikh\\.nuget\\packages\\",
+      "outputPath": "C:\\KMData\\Respositories\\NetCoreJenkinsRepo\\NetCoreJenkins\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bckhiem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\chikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\KMData\\Respositories\\NetCoreJenkinsRepo\\NetCoreJenkins\\NetCoreJenkins.csproj": {}
+    "C:\\KMData\\Respositories\\NetCoreJenkinsRepo\\TestProject1\\TestProject1.csproj": {}
   },
   "projects": {
-    "C:\\KMData\\Respositories\\NetCoreJenkinsRepo\\NetCoreJenkins\\NetCoreJenkins.csproj": {
+    "C:\\KMData\\Respositories\\NetCoreJenkinsRepo\\TestProject1\\TestProject1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\KMData\\Respositories\\NetCoreJenkinsRepo\\NetCoreJenkins\\NetCoreJenkins.csproj",
-        "projectName": "NetCoreJenkins",
-        "projectPath": "C:\\KMData\\Respositories\\NetCoreJenkinsRepo\\NetCoreJenkins\\NetCoreJenkins.csproj",
+        "projectUniqueName": "C:\\KMData\\Respositories\\NetCoreJenkinsRepo\\TestProject1\\TestProject1.csproj",
+        "projectName": "TestProject1",
+        "projectPath": "C:\\KMData\\Respositories\\NetCoreJenkinsRepo\\TestProject1\\TestProject1.csproj",
         "packagesPath": "C:\\Users\\chikh\\.nuget\\packages\\",
-        "outputPath": "C:\\KMData\\Respositories\\NetCoreJenkinsRepo\\NetCoreJenkins\\obj\\",
+        "outputPath": "C:\\KMData\\Respositories\\NetCoreJenkinsRepo\\TestProject1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,28 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -51,9 +73,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
