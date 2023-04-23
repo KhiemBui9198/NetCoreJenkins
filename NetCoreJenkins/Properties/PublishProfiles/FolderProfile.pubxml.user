@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\khiembui\NetCoreJenkins\NetCoreJenkins\bin\Release\net6.0\publish\</_PublishTargetUrl>
-    <History>True|2023-04-22T05:09:37.8771625Z;False|2023-04-22T05:09:22.0852945+00:00;True|2023-04-22T04:46:21.8606038+00:00;True|2023-04-22T03:57:34.8777627+00:00;</History>
+    <History>True|2023-04-23T03:42:57.5618774Z;True|2023-04-23T03:40:19.1110611+00:00;True|2023-04-22T05:09:37.8771625+00:00;False|2023-04-22T05:09:22.0852945+00:00;True|2023-04-22T04:46:21.8606038+00:00;True|2023-04-22T03:57:34.8777627+00:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>
