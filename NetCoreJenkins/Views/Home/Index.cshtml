@@ -3,12 +3,35 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcomes DUS2 Teamssssssssssssss</h1>
+    <h1 class="display-4">Welcomes</h1>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web  with ASP.NET Core</a>.</p>
     <div class="card m-4">
         <div class="card-header bg-danger text-light">"Information"</div>
         <div class="card-body">
-            <p>Thông tin: Khiem </p>
+            <p>Thông tin:@ViewBag.Formvalue </p>
         </div>
     </div>
+</div>
+<div class="col-md-6">
+    <form method="post" enctype="multipart/form-data" asp-controller="Home" asp-action="Index">
+        <table class="table table-warning">
+            <tr>
+                <td>First Name: </td>
+                <td><input type="text" id="txtFirstName" name="FirstName" class="form-control" /></td>
+            </tr>
+            <tr>
+                <td>Last Name: </td>
+                <td><input type="text" id="txtLastName" name="LastName" class="form-control" /></td>
+            </tr>
+            <tr>
+                <td>Address: </td>
+                <td><input type="text" id="txtAddress" name="Address" class="form-control" /></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input type="submit" value="Submit" class="btn btn-primary" /></td>
+            </tr>
+        </table>
+        @ViewBag.Formvalue
+    </form>
 </div>

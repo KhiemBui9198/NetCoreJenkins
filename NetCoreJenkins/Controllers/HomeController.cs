@@ -22,7 +22,12 @@ namespace NetCoreJenkins.Controllers
         {
             return View();
         }
-
+        [HttpPost]
+        public IActionResult Index( Employee employee)
+        {
+            ViewBag.Formvalue = string.Format("Form Field Value is : {0} {1} {2}", employee.FirstName, employee.LastName, employee.Address);
+            return View();
+        }
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
