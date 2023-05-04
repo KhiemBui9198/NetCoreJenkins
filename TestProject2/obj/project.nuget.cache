@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GDUbVhywXH7aPUFw/ksKEAhNYv/AmHFF8IhmYPKoWaEEJM7wWZgN6Po9VW8gypI00F4HBdEBEzcMWwwGudNpNg==",
+  "dgSpecHash": "QWWkI09ty7JRycNdGNIvGSk8Ea/KX7UF20VoK7s0Q4EcAF5Fe5pq4+FM5QV/ixQFAZ8hwPbddC9Q7HIIlANs8Q==",
   "success": true,
-  "projectFilePath": "C:\\KMData\\Respositories\\NetCoreJenkinsRepo\\TestProject2\\TestProject2.csproj",
+  "projectFilePath": "C:\\KMData\\Respositories\\NetCoreJenKinsRepo\\TestProject2\\TestProject2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chikh\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\chikh\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",

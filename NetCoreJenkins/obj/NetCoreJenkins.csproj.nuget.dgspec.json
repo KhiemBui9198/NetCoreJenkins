@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\KMData\\Respositories\\NetCoreJenkinsRepo\\NetCoreJenkins\\NetCoreJenkins.csproj": {}
+    "C:\\KMData\\Respositories\\NetCoreJenKinsRepo\\NetCoreJenkins\\NetCoreJenkins.csproj": {}
   },
   "projects": {
-    "C:\\KMData\\Respositories\\NetCoreJenkinsRepo\\NetCoreJenkins\\NetCoreJenkins.csproj": {
+    "C:\\KMData\\Respositories\\NetCoreJenKinsRepo\\NetCoreJenkins\\NetCoreJenkins.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\KMData\\Respositories\\NetCoreJenkinsRepo\\NetCoreJenkins\\NetCoreJenkins.csproj",
+        "projectUniqueName": "C:\\KMData\\Respositories\\NetCoreJenKinsRepo\\NetCoreJenkins\\NetCoreJenkins.csproj",
         "projectName": "NetCoreJenkins",
-        "projectPath": "C:\\KMData\\Respositories\\NetCoreJenkinsRepo\\NetCoreJenkins\\NetCoreJenkins.csproj",
+        "projectPath": "C:\\KMData\\Respositories\\NetCoreJenKinsRepo\\NetCoreJenkins\\NetCoreJenkins.csproj",
         "packagesPath": "C:\\Users\\chikh\\.nuget\\packages\\",
-        "outputPath": "C:\\KMData\\Respositories\\NetCoreJenkinsRepo\\NetCoreJenkins\\obj\\",
+        "outputPath": "C:\\KMData\\Respositories\\NetCoreJenKinsRepo\\NetCoreJenkins\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
